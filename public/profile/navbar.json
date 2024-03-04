@@ -26,14 +26,14 @@
             "href": "/experience"
         },
         {
-            "title": "Projects",
-            "href": "/projects"
+            "title": "Transcript",
+            "href": "https://drive.google.com/file/d/1BYY7trKBrqCVEOwI8cc1ZWf31ueMeUbb/view?usp=drive_link",
+            "type": "link"
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1A1kGDq8tjDWPCbL9e9tE7bupnQTwPJjO/view?usp=drive_link",
             "type": "link"
         }
     ]
-
 }

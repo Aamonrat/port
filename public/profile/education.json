@@ -14,6 +14,12 @@
             "cardTitle": "High School",
             "cardSubtitle":"ABC School, City",
             "cardDetailedText": "Marks - 95%"
+        },
+        {
+            "title": "Apr 20XX",
+            "cardTitle": "CATC",
+            "cardSubtitle":"ABC School, City",
+            "cardDetailedText": "Marks - 95%"
         }
     ]
 }
