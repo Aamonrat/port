@@ -29,17 +29,14 @@
         {
             "title": "Frameworks & Technologies",
             "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
+                
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter"
                 }
             ]
         },
@@ -55,8 +52,8 @@
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/matlab.png",
+                    "title": "Matlab"
                 }
             ]
     }

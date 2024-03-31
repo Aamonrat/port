@@ -1,33 +1,34 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Assistant Engineer,IT Support",
+            "subtitle": "W&J Enginerring Co,.Ltd",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Assist the senior engineer with technical to complete any assigned project.",
+                "Successfully install a radio system under supervision of senior engineer in order to achieve the client's requirement."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "JUN 2021 – JUN 2022"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Technical",
+            "subtitle": "W&J Enginerring Co,.Ltd",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Learn how to use a measuring instrument to analyze a frequency radio",
+                "Training on how to effectively use suitable tools with safety condition."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "MARC2021 - MAY 2021 – 05/20XX"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Extra-Curriculum",
+            "subtitle": "CATC HUA HIN",
+            "workType": "Special Trainee",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Practice with engine of small aircraft at civil aviation training center HUA HIN airport"
+                
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "DEC 2020"
         }
     ]
 }

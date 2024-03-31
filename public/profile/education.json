@@ -1,25 +1,28 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Junly 2022 - July 2024",     
+            "cardTitle": "Bachelor's degree",
+            "cardSubtitle":"KMUTNB,(ECT)",
+            
+             "items": [
+                {
+                    "icon": "images/education/kmutnb.png",
+                    "title": "Android Studio"
+                }],
+            "cardDetailedText": "GPAX = 3.23"
+       },
+        {
+            "title": "July 2019 - October 2021",
+            "cardTitle": "Diploma",
+            "cardSubtitle":"CATC,(AT-AE)",
+            "cardDetailedText": "GPAX = 2.31"
         },
         {
-            "title": "Apr 20XX",
+            "title": "May 2016 - March 2019",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "CATC",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"MVSK,(SMA)",
+            "cardDetailedText": "GPAX = 2.91"
         }
     ]
 }
