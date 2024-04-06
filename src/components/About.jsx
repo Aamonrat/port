@@ -22,6 +22,32 @@ const styles = {
     alignItems: 'center',
     display: 'flex',
   },
+  introImage: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    display: 'flex',
+  },
+  introImage1: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    display: 'flex',
+    fontSize: '1.2em',
+    fontWeight: 500,
+  },
+  introImage2: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    display: 'flex',
+    fontSize: '1.2em',
+    fontWeight: 500,
+  },
+  introImage3: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    display: 'flex',
+    fontSize: '1.2em',
+    fontWeight: 500,
+  },
 };
 
 function About(props) {
@@ -54,6 +80,22 @@ function About(props) {
                   <Col style={styles.introTextContainer}>
                     {parseIntro(data.about)}
                   </Col>
+                  <center>
+                    <Row style={styles.introImage}>
+                      <h1>{parseIntro(data.title)}</h1>
+                    </Row>
+                    <Row style={styles.introImage1}>
+                      {parseIntro(data.title1)}
+                    </Row>
+                    <Row style={styles.introImage2}>
+                      {parseIntro(data.title2)}
+                    </Row>
+                    <Row style={styles.introImage3}>
+                      <a href="https://www.taapowerlifting.com/">
+                        https://www.taapowerlifting.com/
+                      </a>
+                    </Row>
+                  </center>
                   <Col style={styles.introImageContainer}>
                     <img src={data?.imageSource} alt="profile" />
                   </Col>
